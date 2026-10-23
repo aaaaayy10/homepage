@@ -1,0 +1,7 @@
+node.exe
+*.tar.gz
+.env
+.env.*
+!.env.example
+*.log
+node_modules/
